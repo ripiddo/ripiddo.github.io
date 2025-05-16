@@ -1,6 +1,6 @@
 <img src="https://github.com/ripiddo.png" alt="Profile Picture" width="150" style="border-radius: 50%;" />
 
-# Sinan Tukek
+
 
 
 **Systems Thinker** | **Cybersecurity & Complexity Explorer** | **Coach**
