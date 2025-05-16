@@ -1,5 +1,7 @@
+<img src="https://github.com/ripiddo.png" alt="Profile Picture" width="150" style="border-radius: 50%;" />
 
 # Sinan Tukek
+
 
 **Systems Thinker | Cybersecurity & Complexity Explorer | Coach**
 
@@ -7,9 +9,9 @@
 
 I like to work at the intersection of **technology, systems, and human decision-making**.
 
-With a background in physics and over 15 years solving complex challenges across solution engineering, system integration, and technical consulting, I bring a structural and creative mindset to how systems evolve—both technical and human. My current focus is cybersecurity and resilience, exploring how secure, scalable, and adaptive architectures can support organizations facing complex challenges.
+With a background in physics and over 15 years solving complex challenges across solution engineering, system integration, and technical consulting, I bring a structural and creative mindset to how systems evolve, both technical and human. My current focus is cybersecurity and resilience, exploring how secure, scalable, and adaptive architectures can support organizations facing complex challenges.
 
-I also work as a coach, supporting individuals at pivotal moments—career transitions, role shifts, or when clarity and direction are missing despite high potential.
+I also work as a coach, supporting individuals at pivotal moments of career transitions, role shifts, or when clarity and direction are missing despite high potential.
 
 ---
 
