@@ -3,7 +3,7 @@
 # Sinan Tukek
 
 
-**Systems Thinker | Cybersecurity & Complexity Explorer | Coach**
+**Systems Thinker** | **Cybersecurity & Complexity Explorer** | **Coach**
 
 ---
 
